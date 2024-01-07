@@ -1,4 +1,6 @@
-<h2>Title: Basic Python Dice Simulator</h2>
+<h2>Title: Dice Simulator</h2>
+
+<img src="https://img.freepik.com/premium-vector/animated-illustration-bouncing-dice_585140-56.jpg?w=400" alt="Bouncing Dice" width="400"/>
 
 **Description:**
 In this Python project, I have created a simple yet entertaining "Dice Simulator" using basic Python concepts and the random import library. The project aims to replicate the experience of rolling a traditional six-sided dice without any graphical representation, offering users a straightforward and text-based interaction.
