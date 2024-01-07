@@ -1,5 +1,7 @@
 # Coffee Machine Project
 
+<img src="https://img.freepik.com/premium-vector/cartoon-coffee-maker-isolated-white-background_440210-212.jpg?w=400" alt="Coffee Machine" width="400"/>
+
 ## Description
 
 Welcome to the Coffee Machine Project! ☕ This project is a delightful implementation of a coffee machine that lets you savor various coffee options, check resources, and view real-time reports of the machine's status.
