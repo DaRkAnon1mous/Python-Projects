@@ -20,6 +20,7 @@ def pick():
         ele = sample(INP, no_choice.get())
         lbl = ''
         for e in ele:
+            lbl += ' ' + e
         chois = 'Choice:' + str(lbl)
     else:
         chois = 'Choice: ' + str(choice(INP))
@@ -35,8 +36,7 @@ def pick():
 
 
 B = Button(App, text='Choose', command=pick)
-B.grid(row=2, column=0, padx=25, pady=5)            lbl += ' ' + e
-
+B.grid(row=2, column=0, padx=25, pady=5)
 
 quitB = Button(App, text='Cancel', command=App.quit, state=DISABLED)
 quitB.grid(row=2, column=1, padx=25, pady=5)
